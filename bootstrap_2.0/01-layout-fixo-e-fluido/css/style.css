@@ -1,0 +1,21 @@
+.bloc1, .bloc2, .bloc3, .bloc4{
+    padding: 8px;
+}
+.bloc1{
+   background-color:  #002a80;
+    color: #fff;
+}
+.bloc2{
+    background-color: #0e90d2;
+    color: #fff;
+} 
+.bloc3{
+    background-color: #387038;
+    color: #fff;
+}
+.bloc4{
+    background-color: #802420;
+    color: #fff;
+}
+
+ 
